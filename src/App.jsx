@@ -11,7 +11,7 @@ import ScrollToTop from './components/ScrollToTop';
 import Home from './pages/Home';
 import Login from './pages/Login';
 import Register from './pages/Register';
-import ProductDetail from './pages/ProductDetail,jsx';
+import ProductDetail from './pages/productDetail';
 import Cart from './pages/Cart';
 import Shop from './pages/Shop';
 import AdminDashboard from './pages/AdminDashboard';
